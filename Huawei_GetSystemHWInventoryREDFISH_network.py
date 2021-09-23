@@ -1,6 +1,6 @@
 #! /usr/bin/env python3
 
-# Gets network cards info from Huawei iBMC and can be imported in another py script, inspired by
+# Gets network cards info from Huawei iBMC and dumps to local txt file, can be imported in another py script, inspired by
 # https://github.com/dell/ibmc-Redfish-Scripting/blob/master/Redfish%20Python/GetSystemHWInventoryREDFISH.py
 # Bogdan Adrian Burciu 23/09/2021 vers 1
 
